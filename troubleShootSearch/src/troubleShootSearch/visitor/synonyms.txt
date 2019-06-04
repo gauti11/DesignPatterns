@@ -1,0 +1,9 @@
+CPU:processor
+trouble:problem
+judge:evaluate
+emulsion:solution
+mislaying:loss
+retrieve:rescue
+renovate:restore
+refurbish:reconstruction
+unemotional:clinical
